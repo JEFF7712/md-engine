@@ -86,7 +86,7 @@ Improvement: **82% faster**.
 | OpenMP CPU | 245.12 seconds |
 | CUDA GPU | 70.26 seconds |
 
-Improvement: **71% faster**.
+Improvement: **3.5x faster**.
 
 # Resources
 Here are some resources I used to learn and help write the code.
